@@ -89,8 +89,8 @@ p code {
 }
 
 pre code {
-  font-size: 1.2rem;
-  font-family: 'Inconsolata', monospace;
+  font-size: 0.9rem;
+  font-family: 'Roboto Mono', 'Inconsolata', monospace;
 }
 
 .card.no-border {
