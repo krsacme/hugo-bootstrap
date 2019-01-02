@@ -17,6 +17,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-feature-settings: "liga" on;
   -moz-font-feature-settings: "liga" on;
+  padding-top: 100px;
 }
 
 .site-navbar {
@@ -278,3 +279,5 @@ blockquote p cite {
 blockquote p cite:before {
   content: "\2014 \2009";
 }
+
+
